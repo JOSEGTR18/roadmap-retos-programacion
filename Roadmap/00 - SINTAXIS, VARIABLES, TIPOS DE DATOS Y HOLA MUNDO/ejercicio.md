@@ -28,6 +28,28 @@
  * debemos comenzar por el principio.
  */
 ```
+# https://python.org
+
+"""
+ comentario de varias
+ líneas
+"""
+
+'''
+comentario
+de varias líneas
+'''
+
+# my_int=10
+# my_float=3.5
+# my_string= "jose" 
+
+
+print("¡Hola, github!")
+
+print(type(my_string))
+
+
 #### Tienes toda la información extendida sobre el roadmap de retos de programación en **[retosdeprogramacion.com/roadmap](https://retosdeprogramacion.com/roadmap)**.
 
 Sigue las **[instrucciones](../../README.md)**, consulta las correcciones y aporta la tuya propia utilizando el lenguaje de programación que quieras.
